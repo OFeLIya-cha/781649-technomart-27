@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Офелия Унанян](https://up.htmlacademy.ru/htmlcss/27/user/781649).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец].(https://htmlacademy.ru/profile/seraphim).
 
 ---
 
